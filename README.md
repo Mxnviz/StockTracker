@@ -24,4 +24,4 @@ customtkinter
 yahoo_fin
 matplotlib
 pandas
-tkinter (comes pre-installed with Python
+tkinter (comes pre-installed with Python)
